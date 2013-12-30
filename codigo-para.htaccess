@@ -1,0 +1,3 @@
+##Este es el codigo para solucionar el error
+
+php_flag magic_quotes_gpc Off
